@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: System NT Blog
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: SystemNT
+  email: email
 
 plugins:
   - jemoji
