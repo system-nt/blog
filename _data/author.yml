@@ -1,4 +1,4 @@
-name: System NT
+name: Systemnt
 # dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
 # description: "
 #   <p>
@@ -17,8 +17,8 @@ description : "
 
 email: dev_sharad@outlook.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/
+  # - title: linkedin
+    # url: https://www.linkedin.com/
   # - title: github
     # url: https://github.com/sharadcodes
   - title: twitter
